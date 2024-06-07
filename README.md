@@ -27,3 +27,4 @@ Frontend
     React.js for the user interface
     Redux for state management
     Axios for API calls
+    Tailwind for CSS
